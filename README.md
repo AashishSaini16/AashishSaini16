@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Aashish!  
+### 🚀 Data Science & AI Enthusiast  
 
-<!--
-**AashishSaini16/AashishSaini16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing my **Master's in Artificial Intelligence** @ Friedrich Alexander University, Germany.  
+- 🌱 I’m passionate about **Machine Learning**, **Deep Learning**, and **Predictive Analytics**.  
+- 🤖 Skilled in implementing **Deep Learning Models** like **LSTM**, **CNN**, and **ANN**.  
+- 💡 Proficient in **Python**, **SQL**, and libraries like **NumPy**, **Pandas**, **Scikit-Learn**, **TensorFlow**, and **Keras**.  
+- 💬 Ask me about **ML models**, **Data Analysis**, and **Data Visualization**.  
+- 📫 How to reach me: **aashish.saini26@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aashish16/)  
+- ⚡ Fun fact: I love tackling complex problems with creative AI-driven solutions.  
 
-Here are some ideas to get you started:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AashishSaini16&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
